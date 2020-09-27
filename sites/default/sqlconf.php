@@ -10,7 +10,7 @@ $host   = 'k00nzj7gqn4v73x1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 $port   = '3306';
 $login  = 'openemr';
 $pass   = 'openemr';
-$dbase  = 'openemr';
+$dbase  = 'primary_app_db';
 
 $sqlconf = array();
 global $sqlconf;
